@@ -29,23 +29,23 @@ Restaurant Data
 https://www.yelp.com/developers/v3/manage_app
 
 Census Data
-https://data.census.gov/cedsci/profile?g=0100000US
+https://data.census.gov/cedsci/profile?g=0100000US,
 https://www.nhgis.org/documentation
 
 Franklin Data
-https://performance.franklintn.gov/Government/Admin-Stats/snt3-ifik/data
-https://performance.franklintn.gov/Government/Eco-Devo-Stats/84dc-69ii/data
-https://www.williamsonchamber.com/chamber-news/top-100-best-places-live-united-states-announced-livability-com/
+https://performance.franklintn.gov/Government/Admin-Stats/snt3-ifik/data,
+https://performance.franklintn.gov/Government/Eco-Devo-Stats/84dc-69ii/data,
+https://www.williamsonchamber.com/chamber-news/top-100-best-places-live-united-states-announced-livability-com/,
 https://communityimpact.com/nashville/franklin-brentwood/2020/01/26/19-eateries-that-opened-in-franklin-and-brentwood-in-2019-or-are-coming-soon-in-2020 
 
 Tourism 
-https://www.bestchoicereviews.org/travel/popular-tourist-cities-us/
-https://www.travelandleisure.com/worlds-best/cities-in-us
+https://www.bestchoicereviews.org/travel/popular-tourist-cities-us/,
+https://www.travelandleisure.com/worlds-best/cities-in-us,
 https://www.timeout.com/usa/things-to-do/best-cities-to-visit-in-the-us
 
 Plant Based Stats
-https://www.ipsos-retailperformance.com/en/vegan-trends/
-https://plantbasedfoods.org/marketplace/retail-sales-data/
+https://www.ipsos-retailperformance.com/en/vegan-trends/,
+https://plantbasedfoods.org/marketplace/retail-sales-data/,
 https://www.prnewswire.com/news-releases/plant-based-food-market-worth-74-2-billion-by-2027--exclusive-report-by-meticulous-research-301094884.html
 
 Images
