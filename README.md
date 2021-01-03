@@ -1,5 +1,9 @@
 # Plant-Based Dining Franklin 
-What drives plant-based restaurants to open in certain areas? Do any of these factors play a role? Education, income, age or size of population. Is there an opportunity for a plant-based restaurant in Franklin, Tennessee? 
+What drives plant-based restaurants to open in certain areas? 
+
+Do any of these factors play a role? Education, income, age or size of population. 
+
+Is there an opportunity for a plant-based restaurant in Franklin, Tennessee? 
 
 ## Motivation
 As a farmer and a 14 year vegetarian, I understand the importance of plants and the convenience a plant-based restaurant offers. Franklin Tennessee is home and I struggle to find accommodations while dining around town. My objective is to determine opportunity for plant-based dining in my area by analyzing demographical statistics that drive the industry. 
