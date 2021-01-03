@@ -12,7 +12,9 @@ As a farmer and a 14 year vegetarian, I understand the importance of plants and 
 
 ## Methods
 Using Yelp API, pulled 4350 restaruants labeled vegan/vegetarian in the United States
+
 Pulled demographic data from US Census and NHGIS
+
 Joined Franklin 10 Year statistic datasets from FranklinTN.gov 
 
 ## Sources
