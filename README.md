@@ -1,4 +1,4 @@
-# Plant-Based Dining Franklin 
+# Plant-Based Franklin 
 What drives plant-based restaurants to open in certain areas? 
 
 Do any of these factors play a role? Education, income, age or size of population. 
