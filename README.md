@@ -52,19 +52,21 @@ https://www.prnewswire.com/news-releases/plant-based-food-market-worth-74-2-bill
 
 Images
 Chino Hills
-https://www.chinohills.org/285/Trails
+https://www.chinohills.org/285/Trails,
 Framingham
-https://www.chooseframingham.com/31/Living 
+https://www.chooseframingham.com/31/Living, 
 Mount Pleasant
-https://workandtravel.rs/city/mount-pleasant-south-carolina/
+https://workandtravel.rs/city/mount-pleasant-south-carolina/,
 Franklin, TN
-https://www.tnvacation.com/local/franklin-historic-downtown-franklin
+https://www.tnvacation.com/local/franklin-historic-downtown-franklin,
 Vegan 
-https://pixabay.com/illustrations/vegan-green-nutrition-setting-1161192/
+https://pixabay.com/illustrations/vegan-green-nutrition-setting-1161192/,
 Cover Image
-https://upserve.com/restaurant-insider/fruits-vegetables-come-from/
+https://upserve.com/restaurant-insider/fruits-vegetables-come-from/,
 Plant Based Images
-https://unsplash.com/s/photos/vegan
+https://unsplash.com/s/photos/vegan,
+Artists
+Brooke Lark, Christina Rumpf, Antoine Gault  
 
 
 
