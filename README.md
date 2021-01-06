@@ -1,6 +1,6 @@
 <img width="1122" alt="COVER" src="https://user-images.githubusercontent.com/68241904/103794176-06dd6600-500a-11eb-8933-84d854b5b4dc.png">
 
-# Plant-Based Franklin 
+## Overview 
 What drives plant-based restaurants to open in certain areas? 
 
 Do any of these factors play a role? Education, income, age or size of population. 
@@ -26,7 +26,7 @@ Joined Franklin 10 Year statistic datasets from FranklinTN.gov
 ## Plant Based Franklin Presentation Slides
 
 
-## Sources
+## Data and Images 
 Restaurant Data
 https://www.yelp.com/developers/v3/manage_app
 
