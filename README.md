@@ -1,3 +1,5 @@
+<img width="1122" alt="COVER" src="https://user-images.githubusercontent.com/68241904/103794176-06dd6600-500a-11eb-8933-84d854b5b4dc.png">
+
 # Plant-Based Franklin 
 What drives plant-based restaurants to open in certain areas? 
 
