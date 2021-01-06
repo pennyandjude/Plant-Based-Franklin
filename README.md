@@ -23,8 +23,6 @@ Pulled demographic data from US Census and NHGIS
 
 Joined Franklin 10 Year statistic datasets from FranklinTN.gov 
 
-## Plant Based Franklin Presentation Slides
-
 
 ## Data and Images 
 Restaurant Data
